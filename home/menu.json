@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Home",
+        "routerLink": ""
+    },
+    {
+        "name": "Shop",
+        "routerLink": "/shop"
+    },
+    {
+        "name": "Contact",
+        "routerLink": "/contact"
+    }
+]

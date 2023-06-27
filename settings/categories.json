@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Clothing",
+        "link": "",
+        "image": "",
+        "productsCount": 10,
+        "subCategories": [
+            {
+                "name": "Men",
+                "link": ""
+            },
+            {
+                "name": "Women",
+                "link": ""
+            },
+            {
+                "name": "Baby",
+                "link": ""
+            }
+        ]
+    },
+    {
+        "name": "Shirts",
+        "link": "",
+        "image": "",
+        "productsCount": 10
+    },
+    {
+        "name": "Jeans",
+        "link": "",
+        "image": "",
+        "productsCount": 10
+    },
+    {
+        "name": "Swimwear",
+        "link": "",
+        "image": "",
+        "productsCount": 10
+    },
+    {
+        "name": "Sleepwear",
+        "link": "",
+        "image": "",
+        "productsCount": 10
+    },
+    {
+        "name": "Sportswear",
+        "link": "",
+        "image": "",
+        "productsCount": 10
+    },
+    {
+        "name": "Jumpsuits",
+        "link": "",
+        "image": "",
+        "productsCount": 10
+    },
+    {
+        "name": "Blazers",
+        "link": "",
+        "image": "",
+        "productsCount": 10
+    },
+    {
+        "name": "Jackets",
+        "link": "",
+        "image": "",
+        "productsCount": 10
+    },
+    {
+        "name": "Shoes",
+        "link": "",
+        "image": "",
+        "productsCount": 10
+    }
+]

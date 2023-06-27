@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Spring Collection",
+        "description": "20% OFF THE ALL ORDER",
+        "image": "",
+        "actionText": "shop now",
+        "actionLink": ""
+    },
+    {
+        "title": "Winter Collection",
+        "description": "20% OFF THE ALL ORDER",
+        "image": "",
+        "actionText": "shop now",
+        "actionLink": ""
+    },
+    {
+        "title": "Summer Collection",
+        "description": "20% OFF THE ALL ORDER",
+        "image": "",
+        "actionText": "shop now",
+        "actionLink": ""
+    }
+]
