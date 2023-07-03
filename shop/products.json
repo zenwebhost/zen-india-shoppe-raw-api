@@ -2,25 +2,121 @@
     {
         "name": "Colorful Stylish Shirt",
         "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO",
-        "price": "$123.00",
-        "discountedprice": "$123.00"
+        "price": "$90.00",
+        "discountedprice": "$90.00",
+        "categories": [
+            "Clothing",
+            "Women"
+        ],
+        "colors": [
+            "red",
+            "brown",
+            "black"
+        ],
+        "sizes": [
+            "xs",
+            "S",
+            "XL"
+        ]
     },
     {
         "name": "Colorful Stylish Shirt",
         "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO",
         "price": "$123.00",
-        "discountedprice": "$123.00"
+        "discountedprice": "$123.00",
+        "categories": [
+            "Clothing",
+            "men"
+        ],
+        "colors": [
+            "white",
+            "brown",
+            "black"
+        ],
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ]
     },
     {
         "name": "Colorful Stylish Shirt",
         "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO",
-        "price": "$123.00",
-        "discountedprice": "$123.00"
+        "price": "$158.00",
+        "discountedprice": "$158.00",
+        "categories": [
+            "Clothing",
+            "baby"
+        ],
+        "colors": [
+            "yellow",
+            "brown",
+            "black"
+        ],
+        "sizes": [
+            "xs",
+            "S",
+            "M",
+            "L"
+        ]
     },
     {
         "name": "Colorful Stylish Shirt",
         "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO",
-        "price": "$123.00",
-        "discountedprice": "$123.00"
+        "price": "$198.00",
+        "discountedprice": "$198.00",
+        "categories": [
+            "Shirts"
+        ],
+        "colors": [
+            "green",
+            "orange",
+            "black"
+        ],
+        "sizes": [
+            "xs",
+            "S",
+            "M",
+            "XL"
+        ]
+    },
+    {
+        "name": "Colorful Stylish Shirt",
+        "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO",
+        "price": "$205.00",
+        "discountedprice": "$205.00",
+        "categories": [
+            "Jeans"
+        ],
+        "colors": [
+            "Blue",
+            "brown",
+            "black"
+        ],
+        "sizes": [
+            "xs",
+            "S",
+            "L",
+            "XL"
+        ]
+    },
+    {
+        "name": "Colorful Stylish Shirt",
+        "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO",
+        "price": "$348.00",
+        "discountedprice": "$348.00",
+        "categories": [
+            "Swimwear"
+        ],
+        "colors": [
+            "Pink",
+            "brown",
+            "black"
+        ],
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ]
     }
 ]

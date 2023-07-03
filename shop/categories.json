@@ -3,7 +3,6 @@
         "name": "Clothing",
         "link": "",
         "image": "",
-        "productsCount": 10,
         "subCategories": [
             {
                 "name": "Men",
@@ -22,55 +21,46 @@
     {
         "name": "Shirts",
         "link": "",
-        "image": "",
-        "productsCount": 10
+        "image": ""
     },
     {
         "name": "Jeans",
         "link": "",
-        "image": "",
-        "productsCount": 10
+        "image": ""
     },
     {
         "name": "Swimwear",
         "link": "",
-        "image": "",
-        "productsCount": 10
+        "image": ""
     },
     {
         "name": "Sleepwear",
         "link": "",
-        "image": "",
-        "productsCount": 10
+        "image": ""
     },
     {
         "name": "Sportswear",
         "link": "",
-        "image": "",
-        "productsCount": 10
+        "image": ""
     },
     {
         "name": "Jumpsuits",
         "link": "",
-        "image": "",
-        "productsCount": 10
+        "image": ""
     },
     {
         "name": "Blazers",
         "link": "",
-        "image": "",
-        "productsCount": 10
+        "image": ""
     },
     {
         "name": "Jackets",
         "link": "",
-        "image": "",
-        "productsCount": 10
+        "image": ""
     },
     {
         "name": "Shoes",
         "link": "",
-        "image": "",
-        "productsCount": 10
+        "image": ""
     }
 ]
