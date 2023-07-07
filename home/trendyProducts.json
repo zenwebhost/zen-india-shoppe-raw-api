@@ -3,30 +3,45 @@
         "name": "Colorful Stylish Shirt",
         "discountedPrice": 123,
         "price": 123,
-        "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
+        "image": [
+            "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
+        ],
+        "link": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
     },
     {
         "name": "Colorful Stylish Shirt",
         "discountedPrice": 123,
         "price": 123,
-        "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
+        "image": [
+            "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
+        ],
+        "link": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
     },
     {
         "name": "Colorful Stylish Shirt",
         "discountedPrice": 123,
         "price": 123,
-        "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
+        "image": [
+            "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
+        ],
+        "link": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
     },
     {
         "name": "Colorful Stylish Shirt",
         "discountedPrice": 123,
         "price": 123,
-        "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
+        "image": [
+            "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
+        ],
+        "link": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
     },
     {
         "name": "Colorful Stylish Shirt",
         "discountedPrice": 123,
         "price": 123,
-        "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
+        "image": [
+            "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
+        ],
+        "link": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
     }
 ]

@@ -1,9 +1,12 @@
 [
     {
         "name": "Colorful Stylish Shirt",
-        "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO",
+        "image": [
+            "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
+        ],
         "price": 90.00,
         "discountedPrice": 90.00,
+        "link": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO",
         "categories": [
             "Clothing",
             "Women"
@@ -21,9 +24,12 @@
     },
     {
         "name": "Colorful Stylish Shirt",
-        "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO",
+        "image": [
+            "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
+        ],
         "price": 123.00,
         "discountedPrice": 123.00,
+        "link": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO",
         "categories": [
             "Clothing",
             "men"
@@ -41,9 +47,12 @@
     },
     {
         "name": "Colorful Stylish Shirt",
-        "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO",
+        "image": [
+            "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
+        ],
         "price": 158.00,
         "discountedPrice": 158.00,
+        "link": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO",
         "categories": [
             "Clothing",
             "baby"
@@ -62,9 +71,12 @@
     },
     {
         "name": "Colorful Stylish Shirt",
-        "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO",
+        "image": [
+            "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
+        ],
         "price": 198.00,
         "discountedPrice": 198.00,
+        "link": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO",
         "categories": [
             "Shirts"
         ],
@@ -82,9 +94,12 @@
     },
     {
         "name": "Colorful Stylish Shirt",
-        "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO",
+        "image": [
+            "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
+        ],
         "price": 205.00,
         "discountedPrice": 205.00,
+        "link": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO",
         "categories": [
             "Jeans"
         ],
@@ -102,9 +117,12 @@
     },
     {
         "name": "Colorful Stylish Shirt",
-        "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO",
+        "image": [
+            "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
+        ],
         "price": 348.00,
         "discountedPrice": 348.00,
+        "link": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO",
         "categories": [
             "Swimwear"
         ],
