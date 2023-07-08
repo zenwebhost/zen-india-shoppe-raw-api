@@ -1,14 +1,17 @@
 [
     {
         "name": "Home",
-        "routerLink": ""
+        "routerLink": "",
+        "subMenu": []
     },
     {
         "name": "Shop",
-        "routerLink": "/shop"
+        "routerLink": "/shop",
+        "subMenu": []
     },
     {
         "name": "Contact",
-        "routerLink": "/contact"
+        "routerLink": "/contact",
+        "subMenu": []
     }
 ]
