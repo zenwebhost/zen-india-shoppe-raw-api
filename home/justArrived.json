@@ -12,7 +12,9 @@
         "name": "Bamboo Watch2",
         "discountedPrice": 123,
         "price": 123,
-        "image": "http://drive.google.com/uc?export=view&id=1DoEpdjoVdr94DMILAG3_m6DnRyDDd_cN",
+        "image": [
+            "http://drive.google.com/uc?export=view&id=1DoEpdjoVdr94DMILAG3_m6DnRyDDd_cN"
+        ],
         "link": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
     },
     {
@@ -28,7 +30,9 @@
         "name": "Bamboo Watch4",
         "discountedPrice": 123,
         "price": 123,
-        "image": "http://drive.google.com/uc?export=view&id=1DoEpdjoVdr94DMILAG3_m6DnRyDDd_cN",
+        "image": [
+            "http://drive.google.com/uc?export=view&id=1DoEpdjoVdr94DMILAG3_m6DnRyDDd_cN"
+        ],
         "link": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
     }
 ]
