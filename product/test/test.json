@@ -1,0 +1,63 @@
+{
+    "name": "Colorful Stylish Shirt",
+    "summary": "<p>Volup erat ipsum diam elitr rebum et dolor. Est nonumy elitr erat diam stet sit clita ea. Sanc invidunt ipsum et, labore clita lorem magna lorem ut. Erat lorem duo dolor no sea nonumy. Accus labore stet, est lorem sit diam sea et justo, amet at lorem et eirmod ipsum diam et rebum kasd rebum.</p>",
+    "description": "<p>Eos no lorem eirmod diam diam, eos elitr et gubergren diam sea. Consetetur vero aliquyam invidunt duo dolores et duo sit. Vero diam ea vero et dolore rebum, dolor rebum eirmod consetetur invidunt sed sed et, lorem duo et eos elitr, sadipscing kasd ipsum rebum diam. Dolore diam stet rebum sed tempor kasd eirmod. Takimata kasd ipsum accusam sadipscing, eos dolores sit no ut diam consetetur duo justo est, sit sanctus diam tempor aliquyam eirmod nonumy rebum dolor accusam, ipsum kasd eos consetetur at sit rebum, diam kasd invidunt tempor lorem, ipsum lorem elitr sanctus eirmod takimata dolor ea invidunt.</p> <p>Dolore magna est eirmod sanctus dolor, amet diam et eirmod et ipsum. Amet dolore tempor consetetur sed lorem dolor sit lorem tempor. Gubergren amet amet labore sadipscing clita clita diam clita. Sea amet et sed ipsum lorem elitr et, amet et labore voluptua sit rebum. Ea erat sed et diam takimata sed justo. Magna takimata justo et amet magna et.</p>",
+    "information": "<p>Eos no lorem eirmod diam diam, eos elitr et gubergren diam sea. Consetetur vero aliquyam invidunt duo dolores et duo sit. Vero diam ea vero et dolore rebum, dolor rebum eirmod consetetur invidunt sed sed et, lorem duo et eos elitr, sadipscing kasd ipsum rebum diam. Dolore diam stet rebum sed tempor kasd eirmod. Takimata kasd ipsum accusam sadipscing, eos dolores sit no ut diam consetetur duo justo est, sit sanctus diam tempor aliquyam eirmod nonumy rebum dolor accusam, ipsum kasd eos consetetur at sit rebum, diam kasd invidunt tempor lorem, ipsum lorem elitr sanctus eirmod takimata dolor ea invidunt.</p><div class='row'><div class='col-md-6'><ul class='list-group list-group-flush'><li class='list-group-item px-0'> Sit erat duo lorem duo ea consetetur, et eirmod takimata. </li><li class='list-group-item px-0'> Amet kasd gubergren sit sanctus et lorem eos sadipscing at. </li><li class='list-group-item px-0'> Duo amet accusam eirmod nonumy stet et et stet eirmod. </li><li class='list-group-item px-0'> Takimata ea clita labore amet ipsum erat justo voluptua. Nonumy. </li></ul></div><div class='col-md-6'><ul class='list-group list-group-flush'><li class='list-group-item px-0'> Sit erat duo lorem duo ea consetetur, et eirmod takimata. </li> <li class='list-group-item px-0'> Amet kasd gubergren sit sanctus et lorem eos sadipscing at. </li><li class='list-group-item px-0'> Duo amet accusam eirmod nonumy stet et et stet eirmod. </li><li class='list-group-item px-0'> Takimata ea clita labore amet ipsum erat justo voluptua. Nonumy. </li></ul></div></div>",
+    "price": 150.00,
+    "discountedPrice": 125.00,
+    "image": [
+        "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO",
+        "http://drive.google.com/uc?export=view&id=1DoEpdjoVdr94DMILAG3_m6DnRyDDd_cN"
+    ],
+    "categories": [
+        "test"
+    ],
+    "colors": [
+        "Black",
+        "White",
+        "Red",
+        "Blue",
+        "Green"
+    ],
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "similiarProducts": [
+        {
+            "name": "Colorful Stylish Shirt",
+            "price": 150.00,
+            "discountedPrice": 125.00,
+            "image": [
+                "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
+            ]
+        },
+        {
+            "name": "Colorful Stylish Shirt",
+            "price": 150.00,
+            "discountedPrice": 125.00,
+            "image": [
+                "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
+            ]
+        },
+        {
+            "name": "Colorful Stylish Shirt",
+            "price": 150.00,
+            "discountedPrice": 125.00,
+            "image": [
+                "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
+            ]
+        },
+        {
+            "name": "Colorful Stylish Shirt",
+            "price": 150.00,
+            "discountedPrice": 125.00,
+            "image": [
+                "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
+            ]
+        }
+    ]
+}
