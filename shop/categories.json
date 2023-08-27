@@ -1,66 +1,13 @@
 [
     {
-        "name": "Clothing",
+        "name": "Services",
         "link": "",
         "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO",
         "items": [
             {
-                "name": "Men",
-                "link": ""
-            },
-            {
-                "name": "Women",
-                "link": ""
-            },
-            {
-                "name": "Baby",
+                "name": "Web",
                 "link": ""
             }
         ]
-    },
-    {
-        "name": "Shirts",
-        "link": "",
-        "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
-    },
-    {
-        "name": "Jeans",
-        "link": "",
-        "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
-    },
-    {
-        "name": "Swimwear",
-        "link": "",
-        "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
-    },
-    {
-        "name": "Sleepwear",
-        "link": "",
-        "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
-    },
-    {
-        "name": "Sportswear",
-        "link": "",
-        "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
-    },
-    {
-        "name": "Jumpsuits",
-        "link": "",
-        "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
-    },
-    {
-        "name": "Blazers",
-        "link": "",
-        "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
-    },
-    {
-        "name": "Jackets",
-        "link": "",
-        "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
-    },
-    {
-        "name": "Shoes",
-        "link": "",
-        "image": "http://drive.google.com/uc?export=view&id=1QrkU6LJzLZJ_UCtx4IoPENrHvffoW5GO"
     }
 ]
