@@ -14,20 +14,22 @@
     "categories": [
         "test"
     ],
-    "colors": [
-        "Black",
-        "White",
-        "Red",
-        "Blue",
-        "Green"
-    ],
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
+    "properties": {
+        "colors": [
+            "Black",
+            "White",
+            "Red",
+            "Blue",
+            "Green"
+        ],
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ]
+    },
     "similiarProducts": [
         {
             "name": "Colorful Stylish Shirt",
