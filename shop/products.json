@@ -1,0 +1,22 @@
+[
+    {
+        "name": "BigRock",
+        "image": [
+            "https://i.imgur.com/GJ4taf5.jpeg",
+            "https://i.imgur.com/BIvHvZC.png",
+            "https://i.imgur.com/CqOGf9c.png",
+            "https://i.imgur.com/jzZR6Yq.png",
+            "https://i.imgur.com/HnOUbLJ.png"
+        ],
+        "price": null,
+        "discountedPrice": null,
+        "productLink": "/product/services/web/bigrock",
+        "categories": [
+            "Services",
+            "Web"
+        ],
+        "properties": null,
+        "actionText": "Take me to Bigrock",
+        "actionLink": "http://bigrock-in.sjv.io/zindia"
+    }
+]
