@@ -9,5 +9,16 @@
                 "link": "/shop/services/web"
             }
         ]
+    },
+    {
+        "name": "Cosmetics",
+        "link": "/shop/cosmetics",
+        "image": "https://i.imgur.com/4nPA0Jg.png",
+        "items": [
+            {
+                "name": "Hair",
+                "link": "/shop/cosmetics/hair"
+            }
+        ]
     }
 ]
