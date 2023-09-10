@@ -20,5 +20,24 @@
                 "link": "/shop/cosmetics/hair"
             }
         ]
+    },
+    {
+        "name": "Fashion",
+        "link": "/shop/fashion",
+        "image": "https://i.imgur.com/4nPA0Jg.png",
+        "items": [
+            {
+                "name": "Bag",
+                "link": "/shop/fashion/bag"
+            },
+            {
+                "name": "Wallet",
+                "link": "/shop/fashion/wallet"
+            },
+            {
+                "name": "Belt",
+                "link": "/shop/fashion/belt"
+            }
+        ]
     }
 ]
