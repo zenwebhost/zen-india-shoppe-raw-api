@@ -22,6 +22,26 @@
         "actionLink": "https://track.vcommission.com/t/MTA5ODQxXzEwNjM0/"
     },
     {
+        "name": "Baggit - Bags, wallets, belts and more",
+        "image": [
+            "https://i.imgur.com/UBlm1ZA.jpeg",
+            "https://i.imgur.com/Ruvkaxa.jpeg",
+            "https://i.imgur.com/BApvGyw.png"
+        ],
+        "price": null,
+        "discountedPrice": null,
+        "productLink": "/product/fashion/baggit",
+        "categories": [
+            "fashion",
+            "bag",
+            "wallet",
+            "belt"
+        ],
+        "properties": null,
+        "actionText": "Buy from Baggit",
+        "actionLink": "https://track.vcommission.com/t/MTA5ODQxXzEwNjE1/"
+    },
+    {
         "name": "BigRock - Domains, Hosting and more",
         "image": [
             "https://i.imgur.com/GJ4taf5.jpeg",
